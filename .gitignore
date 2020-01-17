@@ -4,3 +4,4 @@
 .azureml
 /*/__*
 .vscode
+secrets-config.json

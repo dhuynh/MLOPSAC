@@ -52,7 +52,7 @@ parser.add_argument("--workspace_name",  type=str, dest="workspace_name")
 parser.add_argument("--workspace_region",  type=str, dest="workspace_region")
 parser.add_argument("--model_name", type=str, dest="model_name")
 parser.add_argument("--cluster_name_cpu", type=str, dest="cluster_name_cpu")
-parser.add_argument("--cluster_name_gpu", type=str, dest="cluster_name_gpu")
+# parser.add_argument("--cluster_name_gpu", type=str, dest="cluster_name_gpu")
 parser.add_argument("--pipeline_experiment_name", type=str, dest="pipeline_experiment_name")
 parser.add_argument("--pipeline_name", type=str, dest="pipeline_name")
 
@@ -67,7 +67,7 @@ workspace_name = args.workspace_name
 workspace_region = args.workspace_region
 model_name = args.model_name
 cluster_name_cpu = args.cluster_name_cpu
-cluster_name_gpu = args.cluster_name_gpu
+# cluster_name_gpu = args.cluster_name_gpu
 pipeline_experiment_name = args.pipeline_experiment_name
 pipeline_name = args.pipeline_name
 
