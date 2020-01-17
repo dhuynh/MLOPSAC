@@ -1,5 +1,7 @@
 # build-release-ci-cd
 
+This repo is built by Hossein Sarshar with changes from Duy Huynh and Olivier Martin for AC inspired from [Microsoft MLOps](https://github.com/Microsoft/MLOps) repo. Should you have any questions, feel free to email at hossein.sarshar@gmail.com or tweet me [classicboyir](https://twitter.com/classicboyir).
+
 This repo is backed by Build Pipeline:
 
 [![Build status](https://dev.azure.com/hosarsha/build-release-pipeline/_apis/build/status/build-release-pipeline-CI)](https://dev.azure.com/hosarsha/build-release-pipeline/_build/latest?definitionId=2)
